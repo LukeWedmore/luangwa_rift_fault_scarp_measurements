@@ -34,10 +34,13 @@ Column # | Attribute                            | Units            | Data Type  
 15       | Filtered median offset (5 km)        | meters           | Float         | median scarp height over 5 km  of the distance along strike (2.5 km either side of the point).
 16       | filtered standard deviation (5km)    | meters           | Float         | standard deviation scarp height over 5 km  of the distance along strike (2.5 km either side of the point).
 
+## Version Control
+A static version of this dataset will be archived on the [Zenodo] data archive as part of the publication Turner et al. It is intended that this database will be updated in the future as high resolution topography products become available and/or methods for measuring fault scarps improve. Please contact Luke Wedmore <luke.wedmore@bristol.ac.uk> for more information or if you spot any errors.
 
 ### References
-Wedmore, L.N.J., Biggs, J., Williams, J.N., Fagereng, Å., Dulanya, Z., Mphepo, F., Mdala, H. (2020) Active Fault Scarps in Southern Malawi and Their Implications for the Distribution of Strain in Incipient Continental Rifts. _Tectonics_, 39(3), e2019TC005834, [doi.org/10.1029/2019TC005834]
+Wedmore, L.N.J., Biggs, J., Williams, J.N., Fagereng, Å., Dulanya, Z., Mphepo, F., Mdala, H. (2020) Active Fault Scarps in Southern Malawi and Their Implications for the Distribution of Strain in Incipient Continental Rifts. _Tectonics_, 39(3), e2019TC005834, <doi.org/10.1029/2019TC005834>
 
 [csv]: https://datatracker.ietf.org/doc/html/rfc4180
 [Wedmore et al., 2020]: https://doi.org/10.1029/2019TC005834
 [Luangwa Rift Active Fault Database]: https://github.com/LukeWedmore/luangwa_rift_active_fault_database
+[Zenodo]: https://zenodo.org/
