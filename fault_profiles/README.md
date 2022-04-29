@@ -10,5 +10,5 @@ Column | Data
 2      | Median elevation of stacked profiles (m)
 3      | Minimum elevation of profiles that were stacked (m)
 4      | Maximum elevation of profiles that were stacked (m)
-5      | lower confidence bound
-6      | upper confidence bound
+5      | lower confidence bound (m)
+6      | upper confidence bound (m)
