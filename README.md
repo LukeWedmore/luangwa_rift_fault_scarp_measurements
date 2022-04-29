@@ -13,25 +13,24 @@ Turner, T., Wedmore, L.N.J., Biggs, J., Williams, J. Sichingabula, H.M., Kabumbu
 Files are provided in comma separated value ([csv]) format. Each file contains one header line with descriptions of the data contained within each column. The column headings and extra information are summarised in the table below.
 
 ### Attribute Table
-Column # | Attribute                        | Units            | Data Type     | Notes
----------|----------------------------------|------------------|---------------|--------------------------------------------------
-1        | Longitude                        | decimal degrees  | Float         |  
-2        | Latitude                         | decimal degrees  | Float         | 
-3        | Distance Along Fault             | kilometers       | Float         |
-4        | Distance Along Fault             | meters           | Integer       |
-5        | Scarp Height                     | meters           | Float         | 
-6        | Scarp Height Standard Deviation  | meters           | Float         | Standard deviation of 10,000 iterations of meausuring the scarp height with varying subset of points in the hangingwall, scarp and footwall slopes
-7        | Upper Slope Angle                | Degrees          | Float         |
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
+Column # | Attribute                            | Units            | Data Type     | Notes
+---------|--------------------------------------|------------------|---------------|--------------------------------------------------
+1        | Longitude                            | decimal degrees  | Float         |  
+2        | Latitude                             | decimal degrees  | Float         | 
+3        | Distance Along Fault                 | kilometers       | Float         |
+4        | Distance Along Fault                 | meters           | Integer       |
+5        | Scarp Height                         | meters           | Float         | 
+6        | Scarp Height Standard Deviation      | meters           | Float         | Standard deviation of 10,000 iterations of meausuring the scarp height with varying subset of points in the hangingwall, scarp and footwall slopes
+7        | Upper Slope Angle                    | degrees          | Float         |
+8        | upper Slope Angle Standard Deviation | degrees          | Float         | Standard devation of upper slope angle of 10,000 random subsets of the points selected on the upper slope of the fault.
+9        | Lower Slope Angle                    | degrees          | Float         | 
+10       | lower Slope Angle Standard Deviation | degrees          | Float         | Standard devation of lower slope angle of 10,000 random subsets of the points selected on the lower slope of the fault.
+11       | Filtered median offset (1 km)        | meters           | Float         | median scarp height over 1 km  of the distance along strike (0.5 km either side of the point).
+12       | filtered standard deviation (1km)    | meters           | Float         | standard deviation scarp height over 1 km  of the distance along strike (0.5 km either side of the point).
+13       | Filtered median offset (3 km)        | meters           | Float         | median scarp height over 3 km  of the distance along strike (1.5 km either side of the point).
+14       | filtered standard deviation (3km)    | meters           | Float         | standard deviation scarp height over 3 km  of the distance along strike (1.5 km either side of the point).
+15       | Filtered median offset (5 km)        | meters           | Float         | median scarp height over 5 km  of the distance along strike (2.5 km either side of the point).
+16       | filtered standard deviation (5km)    | meters           | Float         | standard deviation scarp height over 5 km  of the distance along strike (2.5 km either side of the point).
 
 
 ### References
