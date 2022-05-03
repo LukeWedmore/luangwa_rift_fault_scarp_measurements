@@ -1,8 +1,10 @@
 # Luangwa Rift Fault Scarp Measurements
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6513545.svg)](https://doi.org/10.5281/zenodo.6513545)
+
 Scarp height measurements for faults in the Luangwa Rift performed by Tess Turner for her University of Bristol MSci Earth Sciences final year project.
 
-If you use these measurements please cite the following paper in addition to this dataset:
+If you use these measurements please cite the [latest release of these measurements on Zenodo] in addition to the following paper:
 
 Turner, T., Wedmore, L.N.J., Biggs, J., Williams, J. Sichingabula, H.M., Kabumbu, C. Banda, K. The Luangwa Rift Active Fault Database and fault reactivation along the southwestern branch of the East African Rift. _In preparation for Solid Earth_
 
@@ -45,3 +47,4 @@ Wedmore, L.N.J., Biggs, J., Williams, J.N., Fagereng, Å., Dulanya, Z., Mphepo, 
 [Luangwa Rift Active Fault Database]: https://github.com/LukeWedmore/luangwa_rift_active_fault_database
 [Zenodo]: https://zenodo.org/
 [doi.org/10.1029/2019TC005834]: https://doi.org/10.1029/2019TC005834
+[latest release of these measurements on Zenodo]: https://doi.org/10.5281/zenodo.6513545
