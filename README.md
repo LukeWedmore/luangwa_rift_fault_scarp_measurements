@@ -6,7 +6,7 @@ If you use these measurements please cite the following paper in addition to thi
 
 Turner, T., Wedmore, L.N.J., Biggs, J., Williams, J. Sichingabula, H.M., Kabumbu, C. Banda, K. The Luangwa Rift Active Fault Database and fault reactivation along the southwestern branch of the East African Rift. _In preparation for Solid Earth_
 
-These measurements were performed on SRTM data using the method outlined in [Wedmore et al., 2020]. Topographic profiles were sampled event 30 m and stacked at 120 m intervals along strike. The individual scarp profiles are archived in the respective folders.
+These measurements were performed on SRTM data using the method outlined in [Wedmore et al., 2020]. Topographic profiles were sampled event 30 m and stacked at 120 m intervals along strike.
 
 Four faults in the Luangwa Rift have been measured using this technique: The Chipola, Chitembo, Kabungo and Molaza faults. The traces of these faults, and all other known active faults in the Luangwa Rift have been separately archived as part of the [Luangwa Rift Active Fault Database].
 
